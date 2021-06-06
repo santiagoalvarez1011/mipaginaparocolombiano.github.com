@@ -1,0 +1,118 @@
+
+ #lo-ultimo-del-paro {
+    background: rgb(247, 6, 6);
+    width: 70%;
+    height: 200px;
+    overflow: auto;
+}
+#cute-cat {
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(154, 250, 1);
+}
+#hola{
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(154, 250, 1);
+
+}
+#luisito{
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(1, 18, 250);
+}
+#col{
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(1, 18, 250);
+}
+#lava{
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(199, 12, 12);
+}
+#garzon{
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 10px groove rgb(199, 12, 12);
+}
+
+button{
+    background-color: blue;
+    color: chartreuse;
+}
+button:hover{
+    background-color: chocolate;
+}
+
+h1{
+    color:rgb(255, 251, 0); font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{color:rgb(10, 10, 10); font-size: 20px;
+}
+
+p{color:rgb(3, 3, 0); font-size: 20px;
+}
+
+p#parrafo1{
+    color:rgb(3, 3, 0); font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}       
+
+#container {
+    width: 400px;
+    margin: auto;
+    border: 1px solid rgb(145, 0, 0);
+    border-top: 10px solid purple;
+}
+.fact {
+    border-top: 1px solid rgb(222, 222, 222);
+    border-bottom: 1px solid rgb(222, 222, 222);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+.orange {
+    background-color: orange;
+}
+
+
+.blue{
+    background-color: rgb(18, 177, 240);
+    color: white;
+}
+.warning {
+    
+    background-color: rgb(224, 46, 1);
+    color: white;
+}
+
+p .warning {
+    border: 5px solid orange;
+}
+
+
+h4{
+    background-color: rgb(132, 228, 42);
+    color: rgb(7, 14, 1);
+}
+
+h5:hover{
+    background-color: cornsilk;
+    color:black
+}
+
+
+
+
+
+
